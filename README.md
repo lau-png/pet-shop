@@ -1,4 +1,7 @@
 # pet-shop
+
+![Wireframe inicial](patinhas-e-cia.png)
+
 # Entrevista de Brieffing: Pet Shop Patinhas & Cia 🐾🐕‍🦺
 
 ### ➤ 🖥️ ❓ Programador:
