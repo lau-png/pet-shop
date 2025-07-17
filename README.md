@@ -4,7 +4,7 @@
 # Entrevista de Brieffing: Pet Shop Patinhas & Cia 🐾🐕‍🦺
 
 
-![Wireframe inicial](patinhas-e-cia.png)
+![Wireframe inicial](lucasgersonlandingpage.svg)
 
 
 
