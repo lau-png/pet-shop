@@ -1,7 +1,7 @@
 # pet-shop
 
 
-# Entrevista de Brieffing: Pet Shop Patinhas & Cia 🐾🐕‍🦺
+# Entrevista de Brieffing: Pet Shop Cantinho do Pet 🐾🐕‍🦺
 
 
 ![Wireframe inicial](lucasgersonlandingpage.svg)
